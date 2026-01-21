@@ -8,3 +8,11 @@ A digital brain
 * Fine-tuner
 * Multi-modal
 * MCP
+
+## Data
+
+* Math
+* Logic
+* Philosophy
+* Coding
+* 
