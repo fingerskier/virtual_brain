@@ -8,6 +8,7 @@ A digital brain
 * Fine-tuner
 * Multi-modal
 * MCP
+* Embedding model
 
 ## Data
 
