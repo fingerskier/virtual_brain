@@ -3,7 +3,7 @@ A digital brain
 
 ## Components
 
-* LLM (CoT, graph, recursive)
+* LLM (CoT, MoE graph, recursive)
 * RAG (vectorDB)
 * Fine-tuner
 * Multi-modal
@@ -25,3 +25,17 @@ A digital brain
 * Lookup only, RAG data
   * historical facts
   * weather
+
+
+## Functionality
+
+* Store/retrieve RAG data
+* Graph thought experiments
+
+
+## Architecture
+
+* Nvidia Nemo
+* Flux.2
+* Postgres
+
