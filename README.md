@@ -21,3 +21,7 @@ A digital brain
 * Circuit diagrams
 * Nature photos
 * Wonderful mechanicals
+
+* Lookup only, RAG data
+  * historical facts
+  * weather
