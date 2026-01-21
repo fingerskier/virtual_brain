@@ -3,7 +3,7 @@ A digital brain
 
 ## Components
 
-* LLM (CoT)
+* LLM (CoT, graph, recursive)
 * RAG (vectorDB)
 * Fine-tuner
 * Multi-modal
