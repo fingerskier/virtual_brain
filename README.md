@@ -9,6 +9,7 @@ A digital brain
 * Multi-modal
 * MCP
 * Embedding model
+* Diffusion model
 
 ## Data
 
