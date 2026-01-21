@@ -11,6 +11,7 @@ A digital brain
 
 ## Data
 
+* Multilingual sacred text
 * Math
 * Logic
 * Philosophy
