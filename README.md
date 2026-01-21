@@ -18,4 +18,5 @@ A digital brain
 * Logic
 * Philosophy
 * Coding
-* 
+* Circuit diagrams
+* Nature photos
