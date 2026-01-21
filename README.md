@@ -4,7 +4,7 @@ A digital brain
 ## Components
 
 * LLM (CoT)
-* RAG
+* RAG (vectorDB)
 * Fine-tuner
 * Multi-modal
 * MCP
