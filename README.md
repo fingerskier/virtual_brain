@@ -1,5 +1,22 @@
 # virtual_brain
-A digital brain 
+A digital brain
+
+## Optional
+
+Turso CLI for various databases:
+* Projects
+  * Projects
+  * Specifications
+  * Issues
+* Journal
+  * timestamp
+  * thesis
+  * details
+* Documents
+  * name
+  * chunk_index
+  * content
+
 
 ## Components
 
